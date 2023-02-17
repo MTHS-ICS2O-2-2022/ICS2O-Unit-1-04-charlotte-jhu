@@ -1,4 +1,25 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by:Charlotte Jhu
+* Created on: Feb 2023
 * This file contains the CSS for index.html
 */
+
+
+body {
+  background-color:beige;
+  color:blue;
+  text-align:center;
+}
+
+h1 {
+  background-color:darkgoldenrod;
+  color:blue;
+  padding:100 px;
+  text-align:center;
+}
+
+h2 {
+  background-color:yellow;
+  color:blue;
+  padding:100 px;
+  text-align:center;
+}
