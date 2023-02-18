@@ -10,13 +10,13 @@ body {
 }
 
 h1 {
-  background-color:mediumpurple;
-  color:blue;
+  background-color: mediumpurple;
+  color: blue;
   padding: 100 px;
 }
 
 ul {
-  color:blue;
+  color: blue;
 }
 
 table {
@@ -25,14 +25,14 @@ table {
 
 th {
   height: 5 rem;
-  background:deeppink;
+  background: deeppink;
   border: 100 px solid black;
   text-align: left;
 }
 
 td {
   height: 5 rem;
-  background:violet;
+  background: violet;
   border: 100 px solid black;
   text-align: center;
 }
