@@ -5,19 +5,19 @@
 
 body {
   background-color: lightskyblue;
-  text-align:center;
+  text-align: center;
 }
 
 h1 {
   background-color: mediumpurple;
   color: blue;
-  padding:100 px;
-  text-align:center;
+  padding: 100 px;
+  text-align: center;
 }
 
 h2 {
   background-color: violet;
   color: blue;
-  padding:100 px;
-  text-align:center;
+  padding: 100 px;
+  text-align: center;
 }
