@@ -12,7 +12,7 @@ body {
 h1 {
   background-color: mediumpurple;
   color: blue;
-  padding: 100 px;
+  padding: 110 px;
 }
 
 ul {
@@ -26,13 +26,13 @@ table {
 th {
   height: 5 rem;
   background: deeppink;
-  border: 100 px solid black;
+  border: 110 px solid black;
   text-align: left;
 }
 
 td {
   height: 5 rem;
   background: violet;
-  border: 100 px solid black;
+  border: 110 px solid black;
   text-align: center;
 }
