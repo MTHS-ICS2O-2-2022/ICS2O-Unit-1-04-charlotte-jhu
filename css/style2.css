@@ -1,0 +1,38 @@
+/* Created by: Charlotte Jhu
+ * Created on: Feb 2023
+ * This CSS file defines the style for index2.html ICS2O-Unit1-04-HTML-CSS
+*/
+
+body {
+  background-color: lightskyblue;
+  color: blue;
+  text-align: left;
+}
+
+h1 {
+  background-color:mediumpurple;
+  color:blue;
+  padding: 100 px;
+}
+
+ul {
+  color:blue;
+}
+
+table {
+  border:solid medium;
+}
+
+th {
+  height: 5 rem;
+  background:deeppink;
+  border: 100 px solid black;
+  text-align: left;
+}
+
+td {
+  height: 5 rem;
+  background:violet;
+  border: 100 px solid black;
+  text-align: center;
+}

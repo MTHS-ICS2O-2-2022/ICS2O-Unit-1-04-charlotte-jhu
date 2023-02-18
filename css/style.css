@@ -3,22 +3,20 @@
 * This file contains the CSS for index.html
 */
 
-
 body {
-  background-color:beige;
-  color:blue;
+  background-color:lightskyblue;
   text-align:center;
 }
 
 h1 {
-  background-color:darkgoldenrod;
+  background-color:mediumpurple;
   color:blue;
   padding:100 px;
   text-align:center;
 }
 
 h2 {
-  background-color:yellow;
+  background-color:violet;
   color:blue;
   padding:100 px;
   text-align:center;
